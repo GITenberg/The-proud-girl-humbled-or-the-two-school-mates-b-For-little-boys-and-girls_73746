@@ -1,11 +1,16 @@
 _repo: The-proud-girl-humbled-or-the-two-school-mates-b-For-little-boys-and-girls_73746
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73746-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Hughs, Mary
     gutenberg_agent_id: '57206'
     url: http://www.gutenberg.org/2009/agents/57206
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73746#The-proud-girl-humbled-or-the-two-school-mates-b-For-little-boys-and-girls
 gutenberg_issued: '2024-06-01'
 gutenberg_type: Text
 identifiers:
